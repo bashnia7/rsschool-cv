@@ -4,8 +4,8 @@
 -----
 * **Phone:** +375 29 798-10-85
 * **E-mail:** a.i.golovei@gmail.com
-* **GitHub:** 
-* **Telegram:**
+* **GitHub:** bashnia7
+* **Discord:** Aliaksandr Halavei(@bashnia7)
 ----
 ## About Me
 --- 
@@ -18,6 +18,12 @@ I have a great desire, I am ready to constantly study, so everything will work o
 * CSS
 * Git/GitHub
 * JavaScript (n process…)
+---
+## Code Example:
+---
+function sum(a, b) {  
+  return a + b;
+    }let result = sum(1, 2); alert( result );
 ---
 ## Education
 ----

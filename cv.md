@@ -1,4 +1,5 @@
 # Aliaksandr Halavei
+![I](https://drive.google.com/file/d/14BrsjvTDfAfYa7SEhnenwnnPZH6pBP32/view?usp=sharing)
 ----
 ## My Contact Info:
 * **Phone:** +375 29 798-10-85

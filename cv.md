@@ -1,5 +1,5 @@
 # Aliaksandr Halavei
-![I](https://drive.google.com/file/d/14BrsjvTDfAfYa7SEhnenwnnPZH6pBP32/view?usp=sharing)
+![I](https://github.com/bashnia7/rsschool-cv/blob/gh-pages/bashnia7.jpg)
 ----
 ## My Contact Info:
 * **Phone:** +375 29 798-10-85
@@ -15,20 +15,18 @@ I have a great desire, I am ready to constantly study, so everything will work o
 * HTML
 * CSS
 * Git/GitHub
-* JavaScript (n process…)
+* JavaScript (in process)
 ---
 ## Code Example:
 ```
-function sum(a, b) {  
-  return a + b;
+function multiply(a, b) {  
+  return a * b;
     }
-    let result = sum(1, 2); 
-    alert( result );
-```
+   ```
 ---
 ## Experience
-
----
+* Not yet
+----
 ## Education
 * Brest State Technical University (Industrial and Civil Engineering) 
 ----

@@ -1,1 +1,4 @@
-<p style="font-size: 25px;">Первое изменение стиля с помощью CSS</p>
+h1 {
+font-size: 600%;
+color: red;
+}
